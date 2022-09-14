@@ -6,7 +6,7 @@ projects:
     source:
       location: 'https://github.com/blues-man/pipelines-vote-ui.git'
       type: git
-      branch: master
+      branch: devfile2
 components:
   - attributes:
       app.kubernetes.io/name: python
