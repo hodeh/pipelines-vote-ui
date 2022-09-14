@@ -1,12 +1,6 @@
 schemaVersion: 2.1.0
 metadata:
-  generateName: vote-ui-
-projects:
-  - name: vote-ui-python
-    source:
-      location: 'https://github.com/blues-man/pipelines-vote-ui.git'
-      type: git
-      branch: devfile2
+  generateName: vote-ui-python-
 components:
   - attributes:
       app.kubernetes.io/name: python
